@@ -82,7 +82,7 @@ const Ourmenu = () => {
           <Image
             src={main}
             alt="maipic"
-            className="w-full max-w-[300px] md:max-w-[400px] lg:max-w-[900px] h-auto"
+            className="w-[500px] max-w-[300px] md:max-w-[400px] lg:max-w-[900px]"
           />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[10px] md:gap-[20px] lg:gap-[30px]">
@@ -90,7 +90,7 @@ const Ourmenu = () => {
             return (
               <div key={items.id} className="flex items-center space-x-4 p-4 rounded-md">
                 <div className="flex gap-1">
-                  <Image src={items.img} alt="menu" width={80} height={79} className="w-[60px] md:w-[70px] lg:w-[80px] h-[60px] md:h-[70px] lg:h-[79px] rounded-[6px]"
+                  <Image src={items.img} alt="menu" width={100} height={79} className="w-[60px] md:w-[70px] lg:w-[80px] h-[60px] md:h-[70px] lg:h-[79px] rounded-[6px]"
                   />
                 </div>
                 <div>

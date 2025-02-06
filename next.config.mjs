@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images : {
-        domains :[
-            "images.pexels.com"
-        ],
+        domains : ['cdn.sanity.io', 'images.pexels.com'],
     },
 };
 

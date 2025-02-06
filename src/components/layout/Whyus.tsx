@@ -17,11 +17,11 @@ const Whyus = () => {
     <div className='xl:block md:hidden sm:hidden hidden lg:hidden'>
     <div className='grid grid-cols-2 grid-row-2 '>
         <Image src={whyus1} alt='' className='w-[262px] h-[256px] rounded-[6px]' />    
-        <Image src={whyus2} alt='' className='w-[201px] ml-[-60px] h-[181px] rounded-[6px] mt-[75px]'/>    
+        <Image src={whyus2} alt='' className='w-[201px] ml-[-130px] h-[181px] rounded-[6px] mt-[75px]'/>    
         <Image src={whyus4} alt='' className='w-[144px] h-[206px] rounded-[6px] mt-[15px]'/>    
-        <Image src={whyus5} alt='' className='w-[141px] h-[146px] ml-[-180px] mt-[15px] rounded-[6px]'/>    
-        <Image src={whyus6} alt='' className='w-[101px] h-[106px] rounded-[6px] ml-[300px] mt-[-205px]'/>    
-        <Image src={whyus7} alt='' className='w-[101px] h-[106px] rounded-[6px] ml-[-30px] mt-[-90px]'/>    
+        <Image src={whyus5} alt='' className='w-[141px] h-[146px] ml-[-252px] mt-[15px] rounded-[6px]'/>    
+        <Image src={whyus6} alt='' className='w-[101px] h-[106px] ml-[310px] mt-[-205px] rounded-[6px]'/>    
+        <Image src={whyus7} alt='' className='w-[101px] h-[106px] rounded-[6px] ml-[-100px] mt-[-90px]'/>    
       </div>
     </div>
     
